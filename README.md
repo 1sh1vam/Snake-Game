@@ -3,3 +3,4 @@
 # Tools used
 
 * JavaScript
+* HTML
